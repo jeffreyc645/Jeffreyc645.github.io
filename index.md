@@ -19,3 +19,6 @@ My GitHub page is https://github.com/jeffreyc645.
 * Lab 9
 
     Lab 9, is my Third and last favorite because The group I was put in made it fun to work on the code. Furthermore It wasn't too hard to do and we all learned the lab together.
+
+
+    ![The gradient image](images/gradient.png)
