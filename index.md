@@ -4,7 +4,7 @@ This is my home page! My name is Jeffrey Camacho and I am a student at [Cal Stat
 
 ## Computer Science Projects
 
-My GitHub page is https://github.com/jeffreyc645.
+My GitHub page is [https://github.com/jeffreyc645](https://github.com/jeffreyc645).
 
 ### CPSC 120
 
